@@ -1,0 +1,20 @@
+# 1.0 Introduction
+Exploding Dice is a stupid filler game about rolling dice.
+
+## 1.1 Objective
+The player who explodes all their dice first wins.
+
+# 2.0 Components
+* 49 dice
+  * 7 of each, in 7 colors:
+    * d4
+    * d6
+    * d8
+    * d10
+    * d12
+    * d20
+    * d30
+
+# 3.0 Playing the Game
+Give each player their 7 dice. Starting with the d4, each player rolls their dice as fast as they can. Once they've rolled the highest number on that dice, they move up to the next-highest die.
+Once a player 'explodes' the d30, they win.
